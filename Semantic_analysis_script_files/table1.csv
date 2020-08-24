@@ -1,0 +1,7 @@
+Total Documents,500,,
+Search Query,Document containing term(df),Total Documents(N)/ number of documents term appeared(df),Log10(N/df)
+Canada,91,5.49,0.74
+University,33,15.15,1.18
+Dalhousie University,11,45.45,1.66
+Halifax,24,20.83,1.32
+Business,4,125,2.1
